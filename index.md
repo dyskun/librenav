@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Home"
+description: LibreNav Home
 ---
 -   Conceived in May 2020
 -   Confirmed in September 2020
