@@ -1,0 +1,42 @@
+title: 'LibreNav'
+author:
+  name: 'Mohit Saharan'
+  email: 'dyskun@yahoo.com'
+description: >-
+    "Libre Career Navigator"
+
+url: "https://librenav.com"
+  #google_analytics: ""
+
+timezone: "Asia/Kolkata"
+custom_head: false
+subscribe: false
+
+permalink: '/:categories/:title/'
+
+  #logo: '/assets/img/site-logo'
+  #profile_picture: "/assets/img/profile-picture.jpg"
+
+# Social
+#github: dyskun
+#linkedin: dyskun
+#twitter: dyskun
+
+date_format: "%b %-d, %Y"
+
+link-tags: true
+
+theme: sencilla
+
+exclude:
+  - CHANGELOG.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+

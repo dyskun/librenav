@@ -1,0 +1,6 @@
+- navitem: 'Posts'
+  url: '/posts'
+- navitem: 'Vacancies'
+  url: '/vacancies'
+- navitem: 'About'
+  url: '/about'
