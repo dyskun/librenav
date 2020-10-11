@@ -17,7 +17,7 @@ Please feel free to write to me at: [dyskun@yahoo.com](mailto:dyskun@yahoo.com) 
 *   IMPRS
     *   [All IMPRS](https://www.mpg.de/en/imprs)
     *   [Astronomy and Astrophysics](https://blog.mpifr-bonn.mpg.de/imprs/for-applicants/)
-        *   Nov 3
+        *   Nov 1
     *   [Astronomy and Cosmic Physics at U. Heidelberg](https://www.imprs-hd.mpg.de/)
         *   Nov 10
     *   [Gravitational-Wave Astronomy - Hannover](https://imprs-gw.aei.mpg.de/7752/application)
