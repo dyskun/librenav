@@ -3,7 +3,8 @@ layout: page
 title: Academic Vacancies
 description: Vacancies for academic positions in science research institutes across the world.
 date: 2020-03-07 T16:00:00
-last_modified_at: 2020-09-02 T20:00:00
+last_modified_at: 2020-10-18 T11:44:00
+ads: true
 ---
 This page lists the sources where you can find the vacancies for PhD and other academic positions. I created this list for myself as I have been looking for open PhD positions, but I decided to put it online so that other interested people can benefit from it. 
 
@@ -13,6 +14,9 @@ I am interested in the positions related to:
 Please feel free to write to me at: [dyskun@yahoo.com](mailto:dyskun@yahoo.com) to say Thanks or if you know about some position related to above mentioned fields that's not listed here.
 
 ### Ph.D. Vacancies
+#### Denmark
+-   [University of Copenhagen](https://employment.ku.dk/phd/)
+
 #### Germany
 *   IMPRS
     *   [All IMPRS](https://www.mpg.de/en/imprs)
@@ -45,6 +49,9 @@ Please feel free to write to me at: [dyskun@yahoo.com](mailto:dyskun@yahoo.com) 
 *   [University of Utrecht](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs)
 *   [Leiden Institute of Physics](https://casimir.researchschool.nl/positions-58.html)
 *   [University of Amsterdam](https://www.uva.nl/en/research/phd/phd-vacancies/phd-vacancies.html?)
+
+#### Norway
+-   [University of Bergen](https://www.uib.no/en/about/84777/vacant-positions-uib)
 
 #### Switzerland
 *   [University of Zurich](https://www.physik.uzh.ch/en/department/jobs.html)
@@ -99,5 +106,6 @@ Please feel free to write to me at: [dyskun@yahoo.com](mailto:dyskun@yahoo.com) 
 *   [PostgraduateStudentships.co.uk](https://www.postgraduatestudentships.co.uk/funding-opportunities/study/phd-other-doctoral-study-funding/applicant/all/organisation/all/subject/astronomy-astrophysics,physics,international-non-eu-applicants/region/all/pn/1)
 *   [Prospects.ac.uk](https://www.prospects.ac.uk/postgraduate-study/phd-study)
 *   [PostgraduateSearch.com](https://www.postgraduatesearch.com)
+-   [physicaloxy.com](https://physicaloxy.com/)
 
 <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="dyskun" data-description="Support me on Buy me a coffee!" data-message="You can buy me a coffee if you think this page is a good resource." data-color="#848484" data-position="" data-x_margin="18" data-y_margin="18"></script>

@@ -6,10 +6,13 @@ description: >-
     "Libre Career Navigator"
 
 url: "https://librenav.com"
-  #google_analytics: ""
+google_analytics: "UA-151014627-3"
+ads: true
+sidebar_ad: true
+footer_ad: true
 
 timezone: "Asia/Kolkata"
-custom_head: false
+custom_head: true
 subscribe: false
 
 permalink: '/:categories/:title/'
