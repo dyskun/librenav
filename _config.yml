@@ -3,13 +3,13 @@ author:
   name: 'Mohit Saharan'
   email: 'dyskun@yahoo.com'
 description: >-
-    "Libre Career Navigator"
+    ""
 
 url: "https://librenav.com"
 google_analytics: "UA-151014627-3"
-ads: true
-sidebar_ad: true
-footer_ad: true
+ads: false
+sidebar_ad: false
+footer_ad: false
 
 timezone: "Asia/Kolkata"
 custom_head: true
