@@ -1,15 +1,11 @@
 title: 'LibreNav'
 author:
-  name: 'Mohit Saharan'
-  email: 'dyskun@yahoo.com'
+  name: 'LibreNav.org'
+  email: ''
 description: >-
     ""
 
-url: "https://librenav.com"
-google_analytics: "UA-151014627-3"
-ads: false
-sidebar_ad: false
-footer_ad: false
+url: "https://librenav.org"
 
 timezone: "Asia/Kolkata"
 custom_head: true
@@ -39,7 +35,6 @@ exclude:
   - README.md
 
 plugins:
- - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
 
