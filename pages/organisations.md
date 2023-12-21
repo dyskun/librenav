@@ -4,7 +4,7 @@ title: Organisations
 permalink: /pages/organisations
 description: A list of organisations
 ---
-A list of organisations in Delhi and NCR.
+Organisations near Delhi/NCR.
 - [BalUtsav](https://balutsav.org/)
 - [Pratham](https://www.pratham.org/)
 - [Akshaya Patra](https://www.akshayapatra.org/)
