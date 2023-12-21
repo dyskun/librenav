@@ -3,4 +3,8 @@
 - navitem: 'Pages'
   url: '/pages'
 - navitem: 'About'
-  url: '/pages/about-us'
+  subitems:
+    - subnavitem: The organisation
+      url:/pages/about_us
+    - subnavitem: The Team
+      url:/pages/the_team
