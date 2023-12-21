@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Us
-permalink: /pages/about-us
+permalink: /pages/about_us
 description: About LibreNav.org
 ---
-Write about the organisation.
+
 

@@ -5,6 +5,6 @@
 - navitem: 'About'
   subitems:
     - subnavitem: 'The organisation'
-      url:'/pages/about_us'
+      url: '/pages/about_us'
     - subnavitem: 'The Team'
-      url:'/pages/the_team'
+      url: '/pages/the_team'

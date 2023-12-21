@@ -1,8 +1,6 @@
 ---
 layout: page
 title: The team
-permalink: /pages/team
+permalink: /pages/the_team
 description: People
 ---
-Write about Harsh and Mohit
-
