@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The team
+title: The Team
 permalink: /pages/the_team
 description: People behind LibreNav
 ---
