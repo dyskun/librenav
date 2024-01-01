@@ -1,6 +1,2 @@
-- navitem: 'Posts'
-  url: '/posts'
-- navitem: 'Pages'
-  url: '/pages'
 - navitem: 'Team'
   url: '/pages/the_team'
