@@ -3,14 +3,7 @@ layout: default
 title: "Home"
 description: LibreNav Home
 ---
-LibreNav is committed to fostering personal growth and development. We have two primary objectives:
+LibreNav promotes personal growth and development among the Indian youth. We have two primary objectives:
 
-1. Student Education: We aim to broaden students’ perspectives by informing them about the wide array of career paths that align with their interests. This helps them make well-informed decisions about their future.
-2. Young Adult Empowerment: We offer information about diverse skill training programs and potential industries where these skills can be utilised. Our goal is to help young adults recognize the importance of their skills and how they can use them to find employment.
-
-To fulfil our mission, we engage in several key activities:
-
-1. Interview people: We interview individuals from various career paths, with a special focus on reaching children in underprivileged regions. This initiative provides them access to a range of professional insights they might not otherwise encounter.
-2. Interview organisations: We conduct interviews with organisations that provide skill training. This not only educates individuals about the significance of skills for employment but also aids these organisations in their search for potential employees.
-
-Through these initiatives, we aspire to create a society where everyone has access to valuable career guidance and skill development opportunities.
+1. Student Education: Due to socio-economic reasons, most students in India choose between a handful of career paths, leading to over-competition in some fields, study programs misaligned with a person's interests and abilities, unemployment, and unhappiness. We aim to broaden students’ perspectives by informing them about the wide array of career paths they could choose. We interview individuals employed in a wide range of fields where they could share the path they took to reach this stage. 
+2. Young Adult Empowerment: Organisations providing skill training, funding opportunities, etc. are active in the country, but the people who need them the most are often unaware of their existence. We aim to inform young adults about the organisations they could use to find employment or advance their careers. We conduct interviews with organisations to spread awareness. This not only informs the individuals about the opportunities available around them, but it also aids these organisations to attract more employees and volunteers.
