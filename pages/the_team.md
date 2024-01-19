@@ -30,3 +30,5 @@ Looking back on my journey, I'm all about cutting out the trial and error. Futur
 ## Rakesh Pandey
 
 {% include image.html url="/assets/img/profile/rakesh_profile.jpeg" alt="Profile picture of Rakesh" description="Rakesh Pandey" %}
+
+A software engineer with a passion for education. Growing up in various locations across India due to his father's service in the Indian Air Force, he developed a diverse perspective on life. After completing his 12th grade, he followed his interest in physics, earning his undergraduate degree from the University of Delhi and later pursuing a master's degree from Doon University. Along his educational journey, he became involved in government schools and science outreach programs, eventually joining the Azim Premji Foundation for 2.5 years. There, he collaborated with over 1000 government school teachers, conducting sessions at state and district levels to enhance classroom teaching. Transitioning to the world of computer programming, he worked on curriculum development for computational thinking. Inspired by his experiences, he embraced a full-time role as a programmer, channeling his passion for education and technology.
