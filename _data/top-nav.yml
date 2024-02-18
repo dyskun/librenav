@@ -1,2 +1,4 @@
 - navitem: 'Team'
   url: '/pages/the_team'
+- navitem: 'Pages'
+  url: '/pages'

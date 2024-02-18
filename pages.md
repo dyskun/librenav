@@ -4,5 +4,4 @@ title: Pages
 permalink: /pages/
 description: A list of pages
 ---
--   [List of organisations](/pages/organisations)
--   [The Team](/pages/team)
+-   [A list of organisations that are working towards the betterment of the society.](/pages/organisations)
