@@ -13,8 +13,8 @@ subscribe: false
 
 permalink: '/:categories/:title/'
 
-  #logo: '/assets/img/site-logo'
-  #profile_picture: "/assets/img/profile-picture.jpg"
+logo: '/assets/img/site-logo'
+  #profile_picture: "/assets/img/site-logo"
 
 # Social
 #github: dyskun
