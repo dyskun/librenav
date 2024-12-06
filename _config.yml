@@ -1,7 +1,7 @@
 title: 'LibreNav'
 author:
   name: 'LibreNav.org'
-  email: ''
+  email: 'librenav[dot]org[∂]gmail[dot]com'
 description: >-
     ""
 
@@ -17,9 +17,10 @@ logo: '/assets/img/site-logo'
   #profile_picture: "/assets/img/site-logo"
 
 # Social
-#github: dyskun
-#linkedin: dyskun
-#twitter: dyskun
+github: https://github.com/msaharan/librenav
+# linkedin: 
+# twitter: 
+bluesky: https://bsky.app/profile/librenav.org 
 
 date_format: "%b %-d, %Y"
 
