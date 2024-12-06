@@ -9,5 +9,5 @@ last_updated_at: 2024-12-06
 ## After PhD 
 -  [After Your PhD](https://afteryourphd.com/)
 -  [Academics in the wild](https://academicsinthewild.com/)
-  -    [Career resources](https://resources.academicsinthewild.com/)
+    -   [Career resources](https://resources.academicsinthewild.com/)
 -  [after academia](https://academicsinthewild.com/)
