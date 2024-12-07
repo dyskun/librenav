@@ -24,7 +24,7 @@ last_modified_at: 2024-12-07
 -  [After Your PhD](https://afteryourphd.com/)
 -  [Academics in the wild](https://academicsinthewild.com/)
     -   [Career resources](https://resources.academicsinthewild.com/)
--  [After Academia](https://academicsinthewild.com/)
+-  [After Academia](https://www.ashleyruba.com/)
 
 
 
