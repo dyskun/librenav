@@ -4,7 +4,7 @@ title: Physics
 permalink: /pages/physics
 description: Resources for physicists
 date: 2024-12-06
-last_updated_at: 2024-12-07
+last_modified_at: 2024-12-07
 ---
 ## Tools for everyday use
 -  Programming:
