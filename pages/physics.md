@@ -12,7 +12,7 @@ last_updated_at: 2024-12-07
     - Editor: [VS Code](https://code.visualstudio.com/) with Python, GitLens, and Jupyter extensions.
     - Version control: Learn [Git](https://git-scm.com/)
     - Collaboration: [GitHub](https://github.com) or [GitLab](https://gitlab.com)
-        - Use [GitHub Desktop](https://desktop.github.com/) for easier workflow even if you are not very comfortable with Git commands in a terminal. - See introductory video [here](https://www.youtube.com/watch?v=l7uo1d3R0Wo).
+        - Use [GitHub Desktop](https://desktop.github.com/) for easier workflow even if you are not very comfortable with Git commands in a terminal. See introductory video [here](https://www.youtube.com/watch?v=qUYkRWGWntE).
 -  Plotting:
     -   [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/) for Python
 -   Writing:
