@@ -17,10 +17,10 @@ logo: '/assets/img/site-logo'
   #profile_picture: "/assets/img/site-logo"
 
 # Social
-github: https://github.com/msaharan/librenav
+github: msaharan/librenav
 # linkedin: 
 # twitter: 
-bluesky: https://bsky.app/profile/librenav.org 
+bluesky: librenav.org 
 
 date_format: "%b %-d, %Y"
 
