@@ -19,8 +19,16 @@ last_modified_at: 2024-12-07
     -  [Overleaf](https://www.overleaf.com/) for online, collaborative writing
     -  [LaTeX](https://www.latex-project.org/) for local writing
     - [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/) for bibliography management    
+-   Workflow and project management:
+    -  Learn [Agile](https://www.atlassian.com/agile) and [Scrum](https://www.atlassian.com/agile/scrum)
+    -  Use [Jira](https://www.atlassian.com/software/jira)
 
-## Career options after PhD 
+## Careers 
+### General
+-  Make a good CV that can pass the applicant tracking system (ATS).
+    -  [Enhancv](https://enhancv.com/) is a good option. Google to find more.
+
+### After PhD 
 -  [After Your PhD](https://afteryourphd.com/)
 -  [Academics in the wild](https://academicsinthewild.com/)
     -   [Career resources](https://resources.academicsinthewild.com/)
